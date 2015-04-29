@@ -1,0 +1,32 @@
+[
+    {
+        "filename": "files/index.html",
+        "size": 77,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    },
+    {
+        "filename": "files/test.html",
+        "size": 19,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    },
+    {
+        "filename": "files/assets/internal/path/sa.png",
+        "size": 3696,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    },
+    {
+        "filename": "files/assets/internal/path/uk.png",
+        "size": 3581,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    },
+    {
+        "filename": "files/css/style.css",
+        "size": 20,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    },
+    {
+        "filename": "files/js/script.js",
+        "size": 29,
+        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+    }
+]
