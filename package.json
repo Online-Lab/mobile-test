@@ -1,0 +1,19 @@
+{
+  "name": "mobile-test",
+  "version": "0.0.0",
+  "description": "App for testing mobile apps updating",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "0.12.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Online-Lab/mobile-test.git"
+  },
+}
