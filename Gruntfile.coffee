@@ -13,10 +13,10 @@ module.exports = ->
         info = []
         files.forEach (filename) -> 
             stat = fs.lstatSync dist + filename
-            stat.gitHash = exec "git log -n 1 --pretty=format:%H -- " + dist + filename,
+            return if stat.isDirectory()
+            stat.gitHash = exec "git log -n 1 --pretty=format:%H -- #{dist}#{filename}",
                 silent: true
             .output
-            return if stat.isDirectory()
             info.push
                 filename: filename
                 size: stat.size
