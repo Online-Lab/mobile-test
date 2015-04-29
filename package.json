@@ -12,7 +12,8 @@
     "grunt-contrib-nodeunit": "~0.4.1",
     "grunt-contrib-uglify": "~0.5.0",
     "wrench": "~1.5.8",
-    "coffee-script": "*"
+    "coffee-script": "*",
+    "shelljs": "*"
   },
   "dependencies": {
     "express": "~4.9.x"
