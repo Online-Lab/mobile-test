@@ -1,8 +1,8 @@
 [
     {
         "filename": "files/index.html",
-        "size": 77,
-        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+        "size": 215,
+        "hash": "92c76f941fac138acd03d692f2eaeea3ef714ac6"
     },
     {
         "filename": "files/test.html",
@@ -26,7 +26,7 @@
     },
     {
         "filename": "files/js/script.js",
-        "size": 29,
-        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+        "size": 78,
+        "hash": "92c76f941fac138acd03d692f2eaeea3ef714ac6"
     }
 ]
