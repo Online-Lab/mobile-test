@@ -1,8 +1,8 @@
 [
     {
         "filename": "files/index.html",
-        "size": 215,
-        "hash": "92c76f941fac138acd03d692f2eaeea3ef714ac6"
+        "size": 317,
+        "hash": "eeeaba561e83922b379a1f42b493d976fc36e068"
     },
     {
         "filename": "files/test.html",
@@ -21,12 +21,17 @@
     },
     {
         "filename": "files/css/style.css",
-        "size": 20,
-        "hash": "b422f68b71c8129832d71f851652bfc1c4364bab"
+        "size": 22,
+        "hash": "eeeaba561e83922b379a1f42b493d976fc36e068"
     },
     {
         "filename": "files/js/script.js",
         "size": 78,
-        "hash": "92c76f941fac138acd03d692f2eaeea3ef714ac6"
+        "hash": "eeeaba561e83922b379a1f42b493d976fc36e068"
+    },
+    {
+        "filename": "files/js/script1.js",
+        "size": 78,
+        "hash": "eeeaba561e83922b379a1f42b493d976fc36e068"
     }
 ]
